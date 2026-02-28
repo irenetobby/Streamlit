@@ -1,0 +1,13 @@
+st.title
+
+st.text_input
+
+st.number_input
+
+st.file_uploader
+
+st.camera_input
+
+st.radio
+
+st.write
